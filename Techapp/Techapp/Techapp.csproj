@@ -55,6 +55,22 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Comms.xaml.cs">
+      <DependentUpon>Comms.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Make Appointment.xaml.cs">
+      <DependentUpon>Make Appointment.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="OHS.xaml.cs">
+      <DependentUpon>OHS.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Take Picture.xaml.cs">
+      <DependentUpon>Take Picture.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Comms.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -67,6 +83,18 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Make Appointment.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="OHS.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Take Picture.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
