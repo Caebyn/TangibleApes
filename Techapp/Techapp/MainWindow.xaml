@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Techapp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="503.901" Width="325.177">
+        Title="MainWindow" Height="503.901" Width="614.58">
     <Grid>
         <Label x:Name="label" Content="Techtorium" HorizontalAlignment="Left" Margin="56,10,0,0" VerticalAlignment="Top" FontFamily="Global Sans Serif" FontSize="36" FontWeight="Bold"/>
         <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="165,403,0,0" VerticalAlignment="Top" Width="142" Height="60"/>
