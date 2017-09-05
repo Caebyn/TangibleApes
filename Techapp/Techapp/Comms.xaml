@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Techapp"
         mc:Ignorable="d"
-        Title="Comms" Height="509.574" Width="346.809">
+        Title="Comms" Height="509.574" Width="700.765">
     <Grid>
         <Label x:Name="label" Content="Techtorium" HorizontalAlignment="Left" Margin="63,10,0,0" VerticalAlignment="Top" FontSize="36" FontFamily="Global Sans Serif" FontWeight="Bold"/>
         <Label x:Name="label1" Content="Thank you for visiting Techtorium," HorizontalAlignment="Left" Margin="54,140,0,0" VerticalAlignment="Top" FontFamily="Microsoft Sans Serif" FontSize="16"/>
